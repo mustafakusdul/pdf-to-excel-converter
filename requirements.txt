@@ -1,4 +1,4 @@
-Flask
-pandas
-XlsxWriter
-PyMuPDF
+Flask==2.3.3
+pdfplumber==0.10.2
+pandas==2.2.2
+XlsxWriter==3.2.0
