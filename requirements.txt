@@ -1,4 +1,0 @@
-ask
-pdfplumber
-pandas
-XlsxWriter
